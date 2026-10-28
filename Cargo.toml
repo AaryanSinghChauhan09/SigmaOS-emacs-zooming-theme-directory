@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_emacs_zooming_theme_directory"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_emacs_zooming_theme_directory"
+path = "src/lib.rs"
